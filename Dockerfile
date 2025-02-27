@@ -1,4 +1,4 @@
-FROM python:3.13-slim
+FROM hrishi2861/txtbot:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app

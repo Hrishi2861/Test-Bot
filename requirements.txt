@@ -1,5 +1,4 @@
-pyrofork
-tgcrypto
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 pymongo
 yt-dlp[default,curl-cffi]
 aria2p
