@@ -1,0 +1,5 @@
+pyrofork
+tgcrypto
+pymongo
+yt-dlp[default,curl-cffi]
+aria2p
